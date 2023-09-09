@@ -1,0 +1,11 @@
+* {
+  font-family: sans-serif;
+}
+
+.btn button {
+  margin-right: 5px;
+}
+
+.avatar img {
+  height: 240px;
+}
